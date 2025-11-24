@@ -44,7 +44,9 @@
   - Shift Registers  
   - Counters  
 - Circuit design done using Verilog + hardware testing
-- 
+
+---
+  
 ### 🎓 Certifications  
 - **VLSI – Indo German Tool Room**  
 - **VLSI Physical Design – SVNIT Surat**  
